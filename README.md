@@ -9,6 +9,9 @@ Supports retreiving all leads and deleting a specific lead.
 ## TODO
 
 Search all leads
+
 Edit a lead
+
 Authentication
+
 Error handling
